@@ -1,4 +1,5 @@
 # interview-4
+## merge sort
 ![insertionSort](https://github.com/ahmaderaqi/reading-notes/assets/118004544/4f7d9c22-5000-42a8-b233-77ebb14d9fba)
 
 # Rating
